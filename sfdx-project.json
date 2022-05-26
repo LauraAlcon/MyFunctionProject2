@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "MyFunctionProject2",
+  "namespace": "",
+  "sfdcLoginUrl": "https://accesosede--nnssfncts.lightning.force.com",
+  "sourceApiVersion": "53.0"
+}
