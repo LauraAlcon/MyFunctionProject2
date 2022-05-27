@@ -9,7 +9,6 @@
  * @param context: represents the connection to Functions and your Salesforce org.
  * @param logger: logging handler used to capture application logs and trace specifically
  *                 to a given execution of a function.
- * 
  */
  
  "use strict";
