@@ -49,7 +49,7 @@
      return queryResults;
    } catch (err) {
      // Catch any DML errors and pass the throw an error with the message
-     const errorMessage = `Failed to insert record. Root Cause: ${err.message}`;
+     const errorMessage = `Failed to insert record :(  Root Cause: ${err.message}`;
      logger.error(errorMessage);
      throw new Error(errorMessage);
    }
